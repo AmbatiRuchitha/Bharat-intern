@@ -1,0 +1,5 @@
+*.md linguist-documentation
+*.csv linguist-generated
+*.json linguist-generated
+*.ipynb linguist-detectable
+*.py linguist-detectable
